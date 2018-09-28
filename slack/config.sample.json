@@ -1,0 +1,4 @@
+{
+  "SLACK_CHANNEL": "#<YOUR CHANNEL NAME>",
+  "HOOK_URL": "hooks.slack.com/services/{YOUR HOOK}"
+}

@@ -1,0 +1,20 @@
+{
+    "Records": [{
+        "EventSource": "aws:sns",
+        "EventVersion": "1.0",
+        "EventSubscriptionArn": "hogehoge",
+        "Sns": {
+            "Type": "Notification",
+            "MessageId": "hogehoeg",
+            "TopicArn": "hogehoge",
+            "Subject": "CREATED: AWS CodeDeploy hogehoge in ap-northeast-1 to hogehoge",
+            "Message": "{\"region\":\"ap-northeast-1\",\"accountId\":\"123456789\",\"eventTriggerName\":\"all_events\",\"applicationName\":\"hogehoge\",\"deploymentId\":\"hogehoge\",\"deploymentGroupName\":\"staging\",\"createTime\":\"Tue May 16 05:37:38 UTC 2017\",\"completeTime\":null,\"status\":\"CREATED\"}",
+            "Timestamp": "2017-05-16T05:37:39.534Z",
+            "SignatureVersion": "1",
+            "Signature": "hogehoge",
+            "SigningCertUrl": "hogehoge",
+            "UnsubscribeUrl": "hogehoge",
+            "MessageAttributes": {}
+        }
+    }]
+}
